@@ -1,29 +1,38 @@
 # Hi, I'm Dovydas 👋
 
-Junior Full-Stack Developer focused on building web applications using:
+Junior **Full-Stack Developer** focused on building modern web applications using **React and Django**.
 
-Frontend
-- React
-- Material UI
-- JavaScript
+## Tech Stack
 
-Backend
-- Django
-- Django REST Framework
-- MySQL
+**Frontend**
 
-Projects
-Auto Parts E-Commerce
+* React
+* JavaScript
+* Material UI
 
-Full-stack e-commerce platform built with React and Django.
+**Backend**
 
-Live demo:
+* Django
+* Django REST Framework
+* MySQL
+
+## Featured Project
+
+### Auto Parts E-Commerce
+
+Full-stack e-commerce platform built with **React** and **Django REST Framework**.
+
+**Live Demo:**
 https://gearpro01e.com
 
-Frontend:
-https://github.com/DBoreisa/AutoParts-frontend
+**Source Code:**
+Frontend → https://github.com/DBoreisa/AutoParts-frontend
+Backend → https://github.com/DBoreisa/AutoParts-backend
 
-Backend:
-https://github.com/DBoreisa/AutoParts-backend
+## Other Projects
 
-Currently looking for a Junior Full-Stack Developer position.
+You can find additional smaller projects and experiments on my GitHub profile.
+
+## Currently
+
+I am currently looking for a **Junior Full-Stack Developer position** where I can continue improving my skills and contribute to real-world software projects.
