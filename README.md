@@ -26,8 +26,8 @@ Full-stack e-commerce platform built with **React** and **Django REST Framework*
 https://gearpro01e.com
 
 **Source Code:**
-Frontend → [https://github.com/DBoreisa/AutoParts-frontend](https://github.com/DBoreisa/AutoParts)
-Backend → [https://github.com/DBoreisa/AutoParts-backend](https://github.com/DBoreisa/AutoParts-be)
+Frontend → https://github.com/DBoreisa/AutoParts
+Backend → https://github.com/DBoreisa/AutoParts-be
 
 ## Other Projects
 
