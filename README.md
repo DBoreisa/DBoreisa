@@ -13,7 +13,17 @@ Backend
 - MySQL
 
 Projects
-- Car Service Management System (React + Django)
-- Vehicle Management CRUD System
+Auto Parts E-Commerce
+
+Full-stack e-commerce platform built with React and Django.
+
+Live demo:
+https://gearpro01e.com
+
+Frontend:
+https://github.com/DBoreisa/AutoParts-frontend
+
+Backend:
+https://github.com/DBoreisa/AutoParts-backend
 
 Currently looking for a Junior Full-Stack Developer position.
